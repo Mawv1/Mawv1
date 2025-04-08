@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on a **Cooking Recipes App** 🍲
 - 🌱 Learning **.NET, C#, and full-stack development**
-- 💬 Ask me about **Android, Java, React, Python**
 - ⚡ Fun fact: I’m into cooking, gaming, and artificial intelligence 🧠
 
 ---
