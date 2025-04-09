@@ -35,26 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mawv1&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mawv1&show_icons=true&locale=en" alt="Stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mawv1&theme=onestar&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
