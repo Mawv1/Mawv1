@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **Cooking Recipes App** 🍲
+- 🔭 I’m currently working on a **Rental App** 🍲
 - 🌱 Learning **Kotlin, Python, and full-stack development**
 - ⚡ Fun fact: I’m into cooking, board games, and artificial intelligence 🧠
 
